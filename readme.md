@@ -9,6 +9,9 @@ A) Files Structure - top
 B) Customizing And Configuration - top
 You can easily customize settings. First you open extract folder config.js file. Then you can change Application Title, Description, URL and more as you want.
 
+
+
+
 Replace following values as you want with in inverted commas.
 
 
